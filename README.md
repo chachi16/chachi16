@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @chachi16
-- 👀 I’m interested in Data science.
-- 🌱 I’m currently learning software engineering with alx Africa.
+- 👋 Hi, I’m chachi kassahun
+- 👀 I’m interested in Cloud Computing.
+- 🌱 I’m currently learning AWS cloud computing @ALX.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
