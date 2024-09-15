@@ -1,6 +1,6 @@
 - 👋 Hi, I’m chachi kassahun
 - 👀 I’m interested in Cloud Computing.
-- 🌱 I’m currently learning AWS cloud computing @ALX.
+- 🌱.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
